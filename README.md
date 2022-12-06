@@ -7,7 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Asking AI &lpar;ChatGPT&rpar; common tech interview questions?](https://javascript.plainenglish.io/asking-ai-chatgpt-common-tech-interview-questions-7aba463573d3?source=rss-f6c7d7bff0c9------2)
+- [Can ChatGPT AI answer these 5 common tech interview questions?](https://javascript.plainenglish.io/asking-ai-chatgpt-common-tech-interview-questions-7aba463573d3?source=rss-f6c7d7bff0c9------2)
 - [3 Mac Apps for helping you handle meeting overload](https://medium.com/swlh/3-mac-apps-for-helping-you-handle-meeting-overload-e825e245d3c9?source=rss-f6c7d7bff0c9------2)
 - [Why You Should Not Forget the JavaScript ‘switch’ Statement](https://javascript.plainenglish.io/why-you-should-not-to-forget-about-the-javascript-switch-statement-466f4c6a1cb1?source=rss-f6c7d7bff0c9------2)
 - [Why DuckDuckGo is choosing now to launch a web browser](https://javascript.plainenglish.io/why-duckduckgo-is-choosing-now-to-launch-a-web-browser-9d2758ebdd49?source=rss-f6c7d7bff0c9------2)
