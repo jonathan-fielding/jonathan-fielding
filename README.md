@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing 5 JavaScript Bundling Tools: Webpack, TurboPack, Parcel, Rollup, and esbuild](https://javascript.plainenglish.io/comparing-5-javascript-bundling-tools-webpack-turbopack-parcel-rollup-and-esbuild-ce9f8af4753d?source=rss-f6c7d7bff0c9------2)
 - [Building a Playbook for your Engineering Team’s Documentation](https://jonthanfielding.medium.com/building-a-playbook-for-your-engineering-teams-documentation-da218c7f4295?source=rss-f6c7d7bff0c9------2)
 - [Trying out GitHub Copilot on the CLI](https://jonthanfielding.medium.com/trying-out-github-copilot-on-the-cli-8608eac1a81a?source=rss-f6c7d7bff0c9------2)
 - [5 Mac accessories for developers](https://jonthanfielding.medium.com/5-mac-accessories-for-developers-f468bd94482?source=rss-f6c7d7bff0c9------2)
 - [What does ChatGPT know about me?](https://jonthanfielding.medium.com/what-does-chatgpt-know-about-me-73ecc2f714be?source=rss-f6c7d7bff0c9------2)
-- [Researching a company when looking at your next Software Engineering role](https://jonthanfielding.medium.com/researching-a-company-when-looking-at-your-next-software-engineering-role-b5f4656da761?source=rss-f6c7d7bff0c9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
