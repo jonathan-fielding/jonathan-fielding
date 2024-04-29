@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is cold-calling software engineers on their personal phones creepy, or is it just me?](https://jonthanfielding.medium.com/is-cold-calling-software-engineers-on-their-personal-phones-creepy-or-is-it-just-me-fd8c91261ed3?source=rss-f6c7d7bff0c9------2)
 - [ES2023: JavaScript’s Immutability Revolution — New Methods and More!](https://jonthanfielding.medium.com/es2023-javascripts-immutability-revolution-new-methods-and-more-776f31435a5c?source=rss-f6c7d7bff0c9------2)
 - [The Hidden Power of Junior Engineers in a Software Engineering Team](https://medium.com/swlh/the-hidden-power-of-junior-engineers-in-a-software-engineering-team-f23014e3b5e1?source=rss-f6c7d7bff0c9------2)
 - [Comparing the Future of VR: Apple Vision Pro and Meta’s Quest Lineup](https://jonthanfielding.medium.com/comparing-the-future-of-vr-apple-vision-pro-and-metas-quest-lineup-9e61a79ddd6a?source=rss-f6c7d7bff0c9------2)
 - [The Web Unscripted: A World Without JavaScript](https://jonthanfielding.medium.com/the-web-unscripted-a-world-without-javascript-aa661a33e5a8?source=rss-f6c7d7bff0c9------2)
-- [Unraveling the Tapestry of Tech Job Titles](https://jonthanfielding.medium.com/unraveling-the-tapestry-of-tech-job-titles-3b8b83844788?source=rss-f6c7d7bff0c9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
