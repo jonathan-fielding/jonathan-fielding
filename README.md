@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [9 learnings I made from my failed side projects](https://javascript.plainenglish.io/9-learnings-i-made-from-my-failed-side-projects-0efa37a934b5?source=rss-f6c7d7bff0c9------2)
 - [Using ChatGPT to help you write better feedback](https://jonthanfielding.medium.com/using-chatgpt-to-help-you-write-better-feedback-7084ba77179a?source=rss-f6c7d7bff0c9------2)
 - [How can tech events be more inclusive for neurodivergent folk](https://jonthanfielding.medium.com/how-can-tech-events-be-more-inclusive-for-neurodivergent-folk-27fac22ac2f2?source=rss-f6c7d7bff0c9------2)
 - [Is cold-calling software engineers on their personal phones creepy, or is it just me?](https://jonthanfielding.medium.com/is-cold-calling-software-engineers-on-their-personal-phones-creepy-or-is-it-just-me-fd8c91261ed3?source=rss-f6c7d7bff0c9------2)
 - [ES2023: JavaScript’s Immutability Revolution — New Methods and More!](https://jonthanfielding.medium.com/es2023-javascripts-immutability-revolution-new-methods-and-more-776f31435a5c?source=rss-f6c7d7bff0c9------2)
-- [The Hidden Power of Junior Engineers in a Software Engineering Team](https://medium.com/swlh/the-hidden-power-of-junior-engineers-in-a-software-engineering-team-f23014e3b5e1?source=rss-f6c7d7bff0c9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
