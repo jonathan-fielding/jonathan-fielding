@@ -7,7 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Reflecting on 2024: A Year of Impact and Advocacy](https://jonthanfielding.medium.com/reflecting-on-2024-a-year-of-impact-and-advocacy-ab6b921e022d?source=rss-f6c7d7bff0c9------2)
+- [2024 in Review: Speaking, Building, and Growing](https://jonthanfielding.medium.com/reflecting-on-2024-a-year-of-impact-and-advocacy-ab6b921e022d?source=rss-f6c7d7bff0c9------2)
 - [9 learnings I made from my failed side projects](https://javascript.plainenglish.io/9-learnings-i-made-from-my-failed-side-projects-0efa37a934b5?source=rss-f6c7d7bff0c9------2)
 - [Using ChatGPT to help you write better feedback](https://jonthanfielding.medium.com/using-chatgpt-to-help-you-write-better-feedback-7084ba77179a?source=rss-f6c7d7bff0c9------2)
 - [How can tech events be more inclusive for neurodivergent folk](https://jonthanfielding.medium.com/how-can-tech-events-be-more-inclusive-for-neurodivergent-folk-27fac22ac2f2?source=rss-f6c7d7bff0c9------2)
