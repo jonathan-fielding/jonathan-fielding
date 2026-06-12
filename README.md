@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning My Obsidian Vault into a Second Brain for Claude](https://jonthanfielding.medium.com/turning-my-obsidian-vault-into-a-second-brain-for-claude-fb3b30cf9176?source=rss-f6c7d7bff0c9------2)
 - [Using GitHub Copilot To Migrate Cookiecutter from Python to Node.js](https://jonthanfielding.medium.com/using-github-copilot-to-migrate-cookiecutter-from-python-to-node-js-8b70e5f892a7?source=rss-f6c7d7bff0c9------2)
 - [Typesafe, Validated Configuration in TypeScript &lpar;and why I built zodified-config&rpar;](https://jonthanfielding.medium.com/typesafe-validated-configuration-in-typescript-and-why-i-built-zodified-config-d01a374d60d0?source=rss-f6c7d7bff0c9------2)
 - [2024 in Review: Speaking, Building, and Growing](https://jonthanfielding.medium.com/reflecting-on-2024-a-year-of-impact-and-advocacy-ab6b921e022d?source=rss-f6c7d7bff0c9------2)
 - [9 learnings I made from my failed side projects](https://javascript.plainenglish.io/9-learnings-i-made-from-my-failed-side-projects-0efa37a934b5?source=rss-f6c7d7bff0c9------2)
-- [Using ChatGPT to help you write better feedback](https://jonthanfielding.medium.com/using-chatgpt-to-help-you-write-better-feedback-7084ba77179a?source=rss-f6c7d7bff0c9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
